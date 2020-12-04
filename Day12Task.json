@@ -1,0 +1,11 @@
+{
+  "name": "Girish",
+  "age": 19,
+  "Student": true,
+  "Department": "Computer Science",
+  "Percentage": 97.6,
+  "Arrears": null,
+  "Course": {"Course ID": 1001, "Subject": "Operating system", "Credits": 4},
+  "Hobbies": ["Photography","Designing","Movies","Fitness"]
+
+}
