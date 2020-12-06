@@ -1,2 +1,2 @@
 # Python Internship
- 30 days python internship 
+ 30 days Python Internship  
